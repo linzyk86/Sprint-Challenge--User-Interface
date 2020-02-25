@@ -1,4 +1,4 @@
-# Sprint Challenge: User Interface and Git - Multi-Page Website
+.# Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
@@ -34,13 +34,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+It gives meaning to the HTML by using descriptive tags like header/section or class names that describe what the element is.
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display: block - takes up the whole horizontal space,  starts a new line, can give it a height and width.
+Display: inline - doesn’t break the flow of the line, ignores height and width
+
 
 3. What are the 4 areas of the box model?
 
+Margin, border, padding, content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Team members can all work on the same project at the same time, and if something breaks you can go back to a previous save point that works.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
